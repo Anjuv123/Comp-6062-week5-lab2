@@ -1,4 +1,4 @@
-console.log('JS loaded!!');
+-console.log('JS loaded!!');
 
 // Remember to inspect in Chrome, and click onto console to see errors!
 // Step 1: Declare two variables 'a' and 'b' and assign them numeric values.
